@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @satyadeep1819
+- 👋 Hi, I’m @satyadeep
 - 👀 I’m interested in ...web-developments 
 - 🌱 I’m currently learning ...Javascript 
 - 💞️ I’m looking to collaborate on ...Web projects
