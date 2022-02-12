@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @satyadeep
 - 👀 I’m interested in ...web-developments 
-- 🌱 I’m currently learning ...Javascript 
+- 🌱 I’m currently learning ...Javascript,react.js
 - 💞️ I’m looking to collaborate on ...Web projects
 - 📫 How to reach me ...DM on Instagram id(satyadeep1819)
 
